@@ -1,3 +1,8 @@
+#first-hero {
+  min-height: 100vh;
+  max-height: 100vh;
+}
+
 .b-example-divider {
   height: 3rem;
   background-color: rgba(0, 0, 0, 0.1);
